@@ -1,1 +1,21 @@
+Assignment1, Task2, Group: Forest Gump
+a)With the command “pwd” you can get the present working directory. After entering Euler the present path is: 
+[mdroste@euler ~]$ pwd
+/srv/home/mdroste
+
+b) To find out which shell is running you can type following command:
+[mdroste@euler ~]$ ps|grep $$
+4887 pts/41   00:00:00 bash
+This response shows that the shell we are using is of type 'bash'.
+
+c) Using the “ls” command you can list files in the current directory. Possible flags are:
+	i)  -a shows all files in a directory	
+	ii) -h shows contents with file size
+	
+d) Using "cd /proc" and "cat cpuinfo" an answer of 1039 lines appears. The lines give informations 
+about the 39 processors of Euler
+
+e) Using "module avail" we can find out, that the highest available gcc version on Euler is 9.1.0
+
+
 

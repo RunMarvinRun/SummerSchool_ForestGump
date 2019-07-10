@@ -1,1 +1,7 @@
-
+Assignment1, Task3, Group: Forest Gump
+a) We use the texteditor vim
+b) To save the file and exit vim at the same time use the command ":wq".
+c) 	i)   To paste a section of text use "p"
+	ii)	 To copy a line use "yy"
+	iii) Use the command "/booo" to search the file for the word "booo"
+	
