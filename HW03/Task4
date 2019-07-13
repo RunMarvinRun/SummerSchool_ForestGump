@@ -1,0 +1,10 @@
+1)	Unit Testing:  main idea is to write a small, self-sufficient test for every new piece of functionality that has been written.
+2)	Integration Testing: takes places when individual software modules are combined and tested as a group. Integration testing is conducted to evaluate the compliance of a system or component with specified functional requirements.
+3)	Functional Testing:  is defined as a type of testing which verifies that each function of the software application operates in conformance with the requirement specification. This testing mainly involves black box testing and it is not concerned about the source code of the application.
+4)	End-to-end Testing: tests whether the flow of an application is performing as designed from start to finish.
+5)	Performance Testing: is a methodology to determinate how a system performs in terms of responsiveness and stability under a particular workload. It can also serve to investigate, measure, validate or verify other quality attributes of the system, such as scalability, reliability and resource usage.
+6)	Usability Testing: is a test to see how easy to use something is by testing it with real users. 
+7)	Acceptance Testing:  is a test conducted to determine if the requirements of a specification or contract are met.
+8)	Beta Testing:Beta Testing is one of the Acceptance Testing types, which adds value to the product as the end-user (intended real user) validates the product for functionality, usability, reliability, and compatibility. The quality of the software is enhanced by the end-users helps.
+
+9) (Configuration Testing) can be performed during Performance testing: is a testing technique which determines minimal and optimal configuration of hardware and software, and the effect of adding or modifying resources such as memory, disk drives and CPU.
