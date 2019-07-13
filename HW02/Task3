@@ -1,0 +1,9 @@
+First call function, output line 1 referencing to lines (19-20): 
+print the value of x for x=A(x) 
+Lines 3-5: substitute y with x and than x=x+1 with start value (Line 17) => Value of x is x =4+1 = 5
+
+Second call function, output line 2 referencing to lines (22-24): 
+Calculate A(x), as already explained, dann with B(&x) the "&" in front of x returns the address in the memory where x is stored. The value of x is 5.
+
+Third call function, output line 3 referencing to lines (26-27): 
+calculate the value of x by using lines (12-13) with *y=6, substitute "&x" with "y" => *(&x)=6 because "*"in front of pointer y returns the value that is stored at the address associated with pointer y, the new value is 6.
