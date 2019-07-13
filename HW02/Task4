@@ -1,0 +1,3 @@
+For  #include <stdio.h>> the preprocessor includes the standard library header file stdio.h. It searches in an implementation dependent manner, normally in search directories pre-designated by the compiler. 
+
+A preprocessing directive of the form #include “output.h” causes the replacement of that directive by the entire contents of the source file identified by the specified sequence between the " delimiters. The output.h source file is searched for in an implementation-defined manner. If this search is not supported, or if the search fails, the directive is reprocessed as if it read with the < and > delimiters with the identical contained sequence  from the original directive.
